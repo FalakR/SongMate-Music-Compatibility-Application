@@ -1,0 +1,11 @@
+# CSC111 Project 2023: Python libraries we'll be using in this Project.
+
+# Testing and code checking
+
+python-ta ~= 2.4.2
+
+# Graphics and data visualization
+
+pandas ~= 1.5.3
+spotipy ~= 2.22.1
+tkinter ~= 5.1.2
