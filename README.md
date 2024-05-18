@@ -1,8 +1,4 @@
-# CSC111 Project: Songmate
-
-## Harnehmat Kaur, Krisha Kalsi, Falak Rastogi, Gurveen Kaur Sahni
-
-## Monday, April 3, 2023
+# Songmate
 
 ## Introduction
 
